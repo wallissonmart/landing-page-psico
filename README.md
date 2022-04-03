@@ -15,7 +15,7 @@
 </h3>
 
 <h1 align="left" id="acessar">👆 Como acessar</h1>
-Para poder acessar a página basta cliclar no seguinte link: https://wallissonmart.github.io/landing-page-psico/
+Para poder acessar a página basta clicar no seguinte link: https://wallissonmart.github.io/landing-page-psico/
 
 <h1 align="left" id="tecnologias">🛠️ Técnicas e tecnologias utilizadas</h1>
 
