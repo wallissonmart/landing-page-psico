@@ -15,7 +15,7 @@
 </h3>
 
 <h1 align="left" id="acessar">👆 Como acessar</h1>
-Para poder acessar é necessário ter algum navegador instalado em seu dispositivo e acessar o seguinte link: ---
+Para poder acessar é necessário ter algum navegador instalado em seu dispositivo e acessar o seguinte link: https://wallissonmart.github.io/landing-page-psico/
 
 <h1 align="left" id="tecnologias">🛠️ Técnicas e tecnologias utilizadas</h1>
 
