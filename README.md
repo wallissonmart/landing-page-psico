@@ -1,5 +1,5 @@
 <h1 align="left">Landing page 📄</h1>
-<p align="left">Landing page para uma clínica de psicologia fictícia desenvolvida com CSS puro.</p>
+<p align="left">Landing page para uma clínica de psicologia fictícia desenvolvida com CSS puro</p>
 
 <p align="left">
  <a href="#status">Status</a> •
